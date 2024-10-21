@@ -7,7 +7,8 @@
 <h4 align="center">On my way to IT Specialist </h4>
 
 <p> 📚Currently learning: </p>
-  
+
+- **Java**  
 - **JavaScript**
 - **Veeam Backup and Replication**
 - **System Administration**
