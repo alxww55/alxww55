@@ -12,8 +12,8 @@
 
 - **Java**  
 - **JavaScript**
-- **Veeam Backup and Replication**
-- **System Administration**
+- **Backup and Virtualisation**
+- **Administration of IT infrasrtucture**
 
 ✉️Contact me:
 **alxww55@icloud.com**
