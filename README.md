@@ -25,3 +25,4 @@ Let´s connect:
 <img align="left" alt="HTML5" width="32px" src="https://github.com/alxww55/alxww55/blob/main/static/img/html5.png"/>
 <img align="left" alt="CSS" width="32px" src="https://github.com/alxww55/alxww55/blob/main/static/img/css3.png"/>
 <img align="left" alt="Tailwind.css" width="32px" src="https://github.com/alxww55/alxww55/blob/main/static/img/tailwind.png"/>
+<img align="left" alt="Tailwind.css" width="32px" src="https://github.com/alxww55/alxww55/blob/main/static/img/sass.png"/>
