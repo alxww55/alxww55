@@ -1,6 +1,5 @@
 <h1 align="center">👋 Hi, I’m Oleksandr Onishchenko </h1>
 <div align="center">
-  
 </div>
 
 <h3 align="center">Student in IT</h3>
@@ -30,6 +29,7 @@ Let´s connect:
 <sub><img align="left" alt="VMware" width="32px" src="https://github.com/alxww55/alxww55/blob/main/static/img/git.png"/></sub>
 -->
 <h3>💻 My stack:</h3>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
