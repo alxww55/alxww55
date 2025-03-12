@@ -11,7 +11,6 @@
   </a>
 </div>
 
-
 <p align="center"> 📚Currently learning: </p>
 
 - **Java**
