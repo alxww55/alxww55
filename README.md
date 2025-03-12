@@ -7,7 +7,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alxww55&layout=donut&theme=github_dark)
 
-<p> 📚Currently learning: </p>
+<p align="center"> 📚Currently learning: </p>
 
 - **Java**
 - **Python**
