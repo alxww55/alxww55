@@ -5,7 +5,7 @@
 
 <h3 align="center">Student in IT</h3>
 
-<a href="https://github.com/anuraghazra/convoychat">
+<a align="center" href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alxww55&layout=donut&theme=github_dark&card_width=320" />
 </a>
 
