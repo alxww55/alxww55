@@ -11,12 +11,7 @@
   </a>
 </div>
 
-<p align="center"> 📚Currently learning: </p>
-
-- **Java**
-- **Python**
-- **Docker**
-- **JavaScript**
+<p align="center"> 📚Currently learning: <b>Java, JavaScript, Python, Docker</b></p>
 
 ✉️Contact me:
 **alxww55@icloud.com**
