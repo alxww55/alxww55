@@ -1,10 +1,9 @@
-<h1 align="center">👋 Hi, I’m Oleksandr Onishchenko </h1>
+<h1 align="center">👋 Hi, I’m Oleksandr Onishchenko</h1>
 <div align="center">
   <img width="256px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnVuNXA4bDE5aWY2cW43YnBoeGE1ODhodzZ3amNwZnV3NXZqd2htZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 </div>
 
 <h3 align="center">Student in IT</h3>
-<h4 align="center">On my way to IT Specialist </h4>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alxww55&layout=donut&theme=github_dark)
 
@@ -20,15 +19,7 @@
 
 Let´s connect:
 <a href="https://www.linkedin.com/in/oleksandr-onishchenko" target="blank"><img align="center" src="https://github.com/alxww55/alxww55/blob/main/static/img/linkedin.png" alt="https://www.linkedin.com/in/oleksandr-onishchenko" height="20" width="20" /></a>
-<!--
-### 💻 My stack:
-<img align="left" alt="HTML5" width="32px" src="https://github.com/alxww55/alxww55/blob/main/static/img/html5.png"/>
-<img align="left" alt="CSS" width="32px" src="https://github.com/alxww55/alxww55/blob/main/static/img/css3.png"/>
-<sub><img align="left" alt="Tailwind.css" width="32px" src="https://github.com/alxww55/alxww55/blob/main/static/img/tailwind.png"/></sub>
-<sub><img align="left" alt="Sass" width="32px" src="https://github.com/alxww55/alxww55/blob/main/static/img/sass.png"/></sub>
-<sub><img align="center" alt="VMware" width="64px" src="https://github.com/alxww55/alxww55/blob/main/static/img/Vmware.svg.png"/></sub>
-<sub><img align="left" alt="VMware" width="32px" src="https://github.com/alxww55/alxww55/blob/main/static/img/git.png"/></sub>
--->
+
 ### 💻 My stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
