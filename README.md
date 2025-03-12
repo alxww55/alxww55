@@ -5,9 +5,9 @@
 
 <h3 align="center">Student in IT</h3>
 
-<div align="center">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alxww55&layout=donut&theme=github_dark)
-</div>
+
 
 <p align="center"> 📚Currently learning: </p>
 
