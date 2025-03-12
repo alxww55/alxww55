@@ -5,8 +5,8 @@
 
 <h3 align="center">Student in IT</h3>
 
-<div display="flex" align-items="center" align-self="center" text-align="center">
-  <a align="center" href="https://github.com/anuraghazra/convoychat">
+<div align="center">
+  <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alxww55&layout=donut&theme=github_dark&card_width=320" />
   </a>
 </div>
