@@ -13,7 +13,7 @@
 
 <p align="center"> 📚Currently learning: <b>Java, JavaScript, Python, Docker</b></p>
 
-✉️Contact me: <a href="mailto:alxww55@icloud.com" <img src="https://github.com/alxww55/alxww55/blob/main/static/img/message.png" height="20" align="center"/></a> or connect with me on <a href="https://www.linkedin.com/in/oleksandr-onishchenko" target="blank"><img align="center" src="https://github.com/alxww55/alxww55/blob/main/static/img/linkedin.png" alt="https://www.linkedin.com/in/oleksandr-onishchenko" height="20" width="20" /></a>
+✉️Contact me: <a href="mailto:alxww55@icloud.com"><img src="https://github.com/alxww55/alxww55/blob/main/static/img/message.png" height="20" align="center"/></a> or connect with me on <a href="https://www.linkedin.com/in/oleksandr-onishchenko" target="blank"><img align="center" src="https://github.com/alxww55/alxww55/blob/main/static/img/linkedin.png" alt="https://www.linkedin.com/in/oleksandr-onishchenko" height="20" width="20" /></a>
 
 Let´s connect:
 <a href="https://www.linkedin.com/in/oleksandr-onishchenko" target="blank"><img align="center" src="https://github.com/alxww55/alxww55/blob/main/static/img/linkedin.png" alt="https://www.linkedin.com/in/oleksandr-onishchenko" height="20" width="20" /></a>
