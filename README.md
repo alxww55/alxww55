@@ -9,10 +9,10 @@
 
 <p> 📚Currently learning: </p>
 
-- **Java**  
+- **Java**
+- **Python**
+- **Docker**
 - **JavaScript**
-- **Backup and Virtualisation**
-- **Administration of IT infrasrtucture**
 
 ✉️Contact me:
 **alxww55@icloud.com**
