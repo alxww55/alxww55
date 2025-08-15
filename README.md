@@ -18,11 +18,11 @@ Let´s connect:
 
 ## 💻 My stack:
 <div align=left>
-  <img height=48 margin=5 src="https://github.com/alxww55/alxww55/blob/main/static/img/html5.png" />
-  <img height=48 margin=5 src="https://github.com/alxww55/alxww55/blob/main/static/img/css3.png" />
-  <img height=48 margin=5 src="https://github.com/alxww55/alxww55/blob/main/static/img/python.png" />
-  <img height=48 margin=5 src="https://github.com/alxww55/alxww55/blob/main/static/img/git.png" />
-  <img height=48 margin=5 src="https://github.com/alxww55/alxww55/blob/main/static/img/sass.png" />
-  <img height=48 margin=5 src="https://github.com/alxww55/alxww55/blob/main/static/img/tailwind.png" />
-  <img height=48 margin=5 src="https://github.com/alxww55/alxww55/blob/main/static/img/aiogram-logo.png" />
+  <img height=32 margin=5 src="https://github.com/alxww55/alxww55/blob/main/static/img/html5.png" />
+  <img height=32 margin=5 src="https://github.com/alxww55/alxww55/blob/main/static/img/css3.png" />
+  <img height=32 margin=5 src="https://github.com/alxww55/alxww55/blob/main/static/img/python.png" />
+  <img height=32 margin=5 src="https://github.com/alxww55/alxww55/blob/main/static/img/git.png" />
+  <img height=32 margin=5 src="https://github.com/alxww55/alxww55/blob/main/static/img/sass.png" />
+  <img height=32 margin=5 src="https://github.com/alxww55/alxww55/blob/main/static/img/tailwind.png" />
+  <img height=32 margin=5 src="https://github.com/alxww55/alxww55/blob/main/static/img/aiogram-logo.png" />
 </div>
