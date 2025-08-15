@@ -18,7 +18,7 @@ Let´s connect:
 
 ## 💻 My stack:
 <div align=left>
-  <img height=40 margin-left=5 margin-right=5 src="https://github.com/alxww55/alxww55/blob/main/static/img/html5.png" />
+  <img height=40 margin-left=5 margin-right=100 src="https://github.com/alxww55/alxww55/blob/main/static/img/html5.png" />
   <img height=40 src="https://github.com/alxww55/alxww55/blob/main/static/img/css3.png" />
   <img height=40 src="https://github.com/alxww55/alxww55/blob/main/static/img/python.png" />
   <img height=40 src="https://github.com/alxww55/alxww55/blob/main/static/img/git.png" />
