@@ -18,7 +18,7 @@ Let´s connect:
 
 ## 💻 My stack:
 ### Languages:
-<img height=32 src="https://github.com/alxww55/alxww55/blob/main/static/img/html5.png" />
+<img height=48 src="https://github.com/alxww55/alxww55/blob/main/static/img/html5.png" />
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
