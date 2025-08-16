@@ -1,3 +1,4 @@
+<img src="https://i.pinimg.com/1200x/05/59/55/0559559ec27203deaaae999c685e4e34.jpg" />
 <h1 align="center">👋 Hi, I’m Oleksandr Onishchenko</h1>
 <div align="center">
   <img width="256px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnVuNXA4bDE5aWY2cW43YnBoeGE1ODhodzZ3amNwZnV3NXZqd2htZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
