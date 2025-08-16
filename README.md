@@ -15,10 +15,10 @@ Let´s connect:
 <a href="https://www.linkedin.com/in/oleksandr-onishchenko" target="blank"><img align="center" src="https://github.com/alxww55/alxww55/blob/main/static/img/linkedin.png" alt="https://www.linkedin.com/in/oleksandr-onishchenko" height="20" width="20" /></a>
 -->
 ### 💻 My stack:
-<img height=38 align="left" src="https://github.com/alxww55/alxww55/blob/main/static/img/html5.png" />
-<img height=38 align="left" src="https://github.com/alxww55/alxww55/blob/main/static/img/css3.png" />
-<img height=38 align="left" src="https://github.com/alxww55/alxww55/blob/main/static/img/python.png" />
-<img height=38 align="left" src="https://github.com/alxww55/alxww55/blob/main/static/img/git.png" />
-<img height=38 align="left" src="https://github.com/alxww55/alxww55/blob/main/static/img/sass.png" />
-<img height=38 align="left" src="https://github.com/alxww55/alxww55/blob/main/static/img/tailwind.png" />
-<img height=38 align="left" src="https://github.com/alxww55/alxww55/blob/main/static/img/aiogram-logo.png" />
+<img height=32 align="left" src="https://github.com/alxww55/alxww55/blob/main/static/img/html5.png" />
+<img height=32 align="left" src="https://github.com/alxww55/alxww55/blob/main/static/img/css3.png" />
+<img height=32 align="left" src="https://github.com/alxww55/alxww55/blob/main/static/img/python.png" />
+<img height=32 align="left" src="https://github.com/alxww55/alxww55/blob/main/static/img/git.png" />
+<img height=32 align="left" src="https://github.com/alxww55/alxww55/blob/main/static/img/sass.png" />
+<img height=32 align="left" src="https://github.com/alxww55/alxww55/blob/main/static/img/tailwind.png" />
+<img height=32 align="left" src="https://github.com/alxww55/alxww55/blob/main/static/img/aiogram-logo.png" />
