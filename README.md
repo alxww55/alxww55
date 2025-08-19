@@ -22,3 +22,4 @@ Let´s connect:
 <img height=32 align="left" src="https://github.com/alxww55/alxww55/blob/main/static/img/sass.png" />
 <img height=32 align="left" src="https://github.com/alxww55/alxww55/blob/main/static/img/tailwind.png" />
 <img height=32 align="left" src="https://github.com/alxww55/alxww55/blob/main/static/img/aiogram-logo.png" />
+<img height=32 align="left" src="https://github.com/alxww55/alxww55/blob/main/static/img/grafana.png" />
