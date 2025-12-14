@@ -4,13 +4,9 @@
 <h3 align="center">Beginner Python Developer</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alxww55&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=github_dark_dimmed&locale=en&hide_border=false" height="150" width="360" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=alxww55&hide_title=false&hide_rank=false&rank_icon=github&show_icons=true&disable_animations=false&theme=github_dark_dimmed&locale=en&hide_border=false" height="150" width="360" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alxww55&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark_dimmed&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-<a href="https://github.com/alxww55/shorty">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alxww55&repo=shorty&theme=github_dark" />
-</a>
 
 ### 💻 My stack:
 <img height=32 align="left" src="https://github.com/alxww55/alxww55/blob/main/static/img/html5.png" />
