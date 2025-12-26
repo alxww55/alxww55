@@ -4,8 +4,8 @@
 <h3 align="center">Beginner Python Developer</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alxww55&hide_title=false&hide_rank=false&rank_icon=github&show_icons=true&disable_animations=false&theme=github_dark_dimmed&locale=en&hide_border=false" height="150" width="360" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alxww55&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark_dimmed&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-hazel-kappa-12.vercel.app/api?username=alxww55&hide_title=false&hide_rank=false&rank_icon=github&show_icons=true&disable_animations=false&theme=github_dark_dimmed&locale=en&hide_border=false" height="150" width="360" alt="stats graph"  />
+  <img src="https://github-readme-stats-hazel-kappa-12.vercel.app/api/top-langs?username=alxww55&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark_dimmed&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ### 💻 My stack:
