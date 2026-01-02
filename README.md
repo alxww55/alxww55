@@ -2,8 +2,10 @@
 <h1 align="center">👋 Hi, I’m Oleksandr Onishchenko</h1>
 
 <h3 align="center">Beginner Python Developer</h3>
-#### Currently working on:
-- Installation and configuration of Proxmox VE homelab server
+<h4>Currently working on:</h4>
+<ul>
+  <li>Installation and configuration of Proxmox VE homelab server</li>
+</ul>
 <div align="center">
   <img src="https://github-readme-stats-hazel-kappa-12.vercel.app/api?username=alxww55&hide_title=false&hide_rank=false&rank_icon=github&show_icons=true&disable_animations=false&theme=github_dark_dimmed&locale=en&hide_border=false&count_private=true" height="150" width="360" alt="stats graph"  />
   <img src="https://github-readme-stats-hazel-kappa-12.vercel.app/api/top-langs?username=alxww55&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark_dimmed&hide_border=false" height="150" alt="languages graph"  />
