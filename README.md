@@ -1,7 +1,7 @@
 <img width=100% src="https://github.com/alxww55/alxww55/blob/main/static/img/header.png"/>
 <h1 align="center">👋 Hi, I’m Oleksandr Onishchenko</h1>
 
-<h3 align="center">Beginner Python Developer</h3>
+<h3 align="center">Programmint enthusiast and IT explorer</h3>
 <h4>Currently working on:</h4>
 <ul>
   <li>Installation and configuration of Proxmox VE homelab server</li>
