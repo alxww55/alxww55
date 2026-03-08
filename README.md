@@ -4,7 +4,7 @@
 <h3 align="center">Programming enthusiast</h3>
 <h4>Currently working on:</h4>
 <ul>
-  <li>Mastering Algorihtms and Data Structures</li>
+  <li>Mastering Algorithms and Data Structures</li>
 </ul>
 <div align="center">
   <img src="https://github-readme-stats-hazel-kappa-12.vercel.app/api?username=alxww55&hide_title=false&hide_rank=false&rank_icon=github&show_icons=true&disable_animations=false&theme=github_dark_dimmed&locale=en&hide_border=false&count_private=true" height="150" width="360" alt="stats graph"  />
