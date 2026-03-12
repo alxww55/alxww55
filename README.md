@@ -12,15 +12,18 @@
 
 ## ⚙️ Projects
 
-#### 🏠 HomeLab:
-> Personal server setup for learning Linux, Virtualization & System Administration focusing on DevOps
+<details>
+<summary>🏠 HomeLab</summary>
+<br>
+  
+> Personal server for hands-on DevOps and SysAdmin experience
 > - **Virtualization**: Proxmox VE Hypervisor
 > - **IaaS & Automation**: Ansible for idempotency and quick reproducibility
 > - **Containerization**: Docker-first approach
 > - **Networking**: Traefik reverse-proxy and Cloudflare Zero Trust for ingress traffic
 > - **Self-hosting**: n8n, databases
 > - **Linux experience**: Configuration and administration of exclusively Linux-based environment
-
+</details>
 
 ## 📊 GitHub Stats
 <div align="center">
