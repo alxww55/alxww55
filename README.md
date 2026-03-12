@@ -1,24 +1,29 @@
 <img width=100% src="https://github.com/alxww55/alxww55/blob/main/static/img/header.png"/>
-<h1 align="center">👋 Hi, I’m Oleksandr Onishchenko</h1>
+<h1 align="center">Hi there, I’m Oleksandr 👋</h1>
 
 <h3 align="center">Programming enthusiast</h3>
-<h4>Currently working on:</h4>
-<ul>
-  <li>Mastering Algorithms and Data Structures</li>
-</ul>
+
+#### Currently working on:
+- 📚 Mastering Algorithms and Data Structures</li>
+- 🏠 Homelab Administration</li>
+
+## 🛠 Tech Stack
+<img src="https://skillicons.dev/icons?i=py,go,fastapi,postgres,html,css,tailwind,git,github,gitlab,docker,vscode,linux,windows"/>
+
+## ⚙️ Projects
+
+#### 🏠 HomeLab:
+> Personal server setup for learning Linux, Virtualization & System Administration focusing on DevOps
+> - **Virtualization**: Proxmox VE Hypervisor
+> - **IaaS & Automation**: Ansible for idempotency and quick reproducibility
+> - **Containerization**: Docker-first approach
+> - **Networking**: Traefik reverse-proxy and Cloudflare Zero Trust for ingress traffic
+> - **Self-hosting**: n8n, databases
+> - **Linux experience**: Configuration and administration of exclusively Linux-based environment
+
+
+## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats-hazel-kappa-12.vercel.app/api?username=alxww55&hide_title=false&hide_rank=false&rank_icon=github&show_icons=true&disable_animations=false&theme=github_dark_dimmed&locale=en&hide_border=false&count_private=true" height="150" width="360" alt="stats graph"  />
   <img src="https://github-readme-stats-hazel-kappa-12.vercel.app/api/top-langs?username=alxww55&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark_dimmed&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-### 💻 My stack:
-<img height=32 align="left" src="https://github.com/alxww55/alxww55/blob/main/static/img/python.png" />
-<img height=32 align="left" src="https://github.com/alxww55/alxww55/blob/main/static/img/aiogram-logo.png" />
-<img height=32 align="left" src="https://github.com/alxww55/alxww55/blob/main/static/img/fastapi.png" />
-<img height=32 align="left" src="https://github.com/alxww55/alxww55/blob/main/static/img/postgres.png" />
-<img height=32 align="left" src="https://github.com/alxww55/alxww55/blob/main/static/img/html5.png" />
-<img height=32 align="left" src="https://github.com/alxww55/alxww55/blob/main/static/img/css3.png" />
-<img height=32 align="left" src="https://github.com/alxww55/alxww55/blob/main/static/img/sass.png" />
-<img height=32 align="left" src="https://github.com/alxww55/alxww55/blob/main/static/img/tailwind.png" />
-<img height=32 align="left" src="https://github.com/alxww55/alxww55/blob/main/static/img/git.png" />
-<img height=32 align="left" src="https://github.com/alxww55/alxww55/blob/main/static/img/grafana.png" />
