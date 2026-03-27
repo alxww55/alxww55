@@ -18,7 +18,7 @@
   
 > Personal server for hands-on DevOps and SysAdmin experience
 > - **Virtualization**: Proxmox VE Hypervisor
-> - **IaaS & Automation**: Ansible for idempotency and quick reproducibility, Terraform for quick deployment and state management
+> - **IaaS & Automation**: Terraform and Ansible for idempotency, quick reproducibility and state management
 > - **Containerization**: Docker-first approach
 > - **Networking**: Traefik reverse-proxy and Cloudflare Zero Trust for ingress traffic
 > - **Monitoring**: InfluxDB + Grafana monitoring of Proxmox VE and Traefik 
