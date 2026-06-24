@@ -4,7 +4,7 @@
 <h3 align="center">Programming enthusiast</h3>
 
 #### Currently working on:
-- 📚 Mastering Algorithms and Data Structures</li>
+- 📚 Learning Java</li>
 - 🏠 Homelab Administration</li>
 
 ## 🛠 Tech Stack
