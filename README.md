@@ -8,7 +8,7 @@
 - 🏠 Homelab Administration</li>
 
 ## 🛠 Tech Stack
-<img src="https://skillicons.dev/icons?i=py,go,fastapi,postgres,html,css,git,github,gitlab,docker,vscode,linux,windows"/>
+<img src="https://skillicons.dev/icons?i=go,py,html,css,fastapi,postgres,git,github,gitlab,docker,vscode,linux,windows"/>
 
 ## ⚙️ Projects
 
